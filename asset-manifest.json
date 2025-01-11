@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shuda-page/static/css/main.e6c13ad2.css",
+    "main.js": "/shuda-page/static/js/main.78923aac.js",
+    "static/js/156.eaafe570.chunk.js": "/shuda-page/static/js/156.eaafe570.chunk.js",
+    "index.html": "/shuda-page/index.html",
+    "main.e6c13ad2.css.map": "/shuda-page/static/css/main.e6c13ad2.css.map",
+    "main.78923aac.js.map": "/shuda-page/static/js/main.78923aac.js.map",
+    "156.eaafe570.chunk.js.map": "/shuda-page/static/js/156.eaafe570.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.78923aac.js"
+  ]
+}
