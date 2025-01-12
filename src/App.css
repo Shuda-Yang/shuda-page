@@ -1,0 +1,62 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9; /* Light gray background for a clean look */
+  color: #333; /* Dark gray for readable text */
+  text-align: center;
+}
+
+/* Container Styles */
+div {
+  max-width: 900px; /* Center content on the page */
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Heading Styles */
+h1 {
+  color: #333; /* Dark gray for headings */
+  font-size: 2.5rem; /* Bigger size for main title */
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #555; /* Slightly lighter gray for subtitles */
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+/* Paragraph Styles */
+p {
+  color: #666; /* Light gray for secondary text */
+  font-size: 1rem;
+  margin-bottom: 30px;
+  line-height: 1.6; /* Improves readability */
+}
+
+/* Resume Button Styles */
+a {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff; /* White text for contrast */
+  background-color: #007bff; /* Blue button */
+  text-decoration: none; /* Remove underline */
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+a:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Card Styles (for sections like Resume) */
+#resume {
+  background-color: #fff; /* White background for contrast */
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  margin-bottom: 40px;
+}
